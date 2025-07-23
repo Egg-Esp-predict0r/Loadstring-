@@ -81,4 +81,4 @@ task.spawn(function()
 
 	-- Load external GUI
 	
-loadstring(game:HttpGet("https://pastefy.app/OvnG2txm/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/61lmhmdI/raw"))()
